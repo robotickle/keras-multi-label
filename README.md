@@ -2,7 +2,7 @@
 keras OpenCV, multilabel neural net, for AWS GPU.
 
 
-'''
+```
 
 LOGIN TO NODE
 
@@ -49,9 +49,9 @@ jeans: 0.02%
 red: 100.00%
 shirt: 100.00%
 
-'''
+```
 
 
 
 
-source: pyimageserach
+source: Thanks to pyimageserach for detailed explanation.
